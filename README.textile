@@ -1,0 +1,11 @@
+h1. An application demoing usage of Lift with MongoDB Backend
+
+h2. How to run -
+
+# Clone this project using git
+# Start mongod (MongoDB Deamon)
+# Open mongo shell and create a collection called users in the DB local.
+# Go to the checked out application and run
+ 
+bq. mvn jetty:run
+
