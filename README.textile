@@ -1,5 +1,8 @@
 h1. An application demoing usage of Lift with MongoDB Backend
 
+h3. Note: This project was created only to show an existing error in Lift framework's mongodb password field. If you are here looking for a lift application workign with mongodb,
+check out KS-Lift at https://github.com/rohit-tingendab/ks-lift
+
 h2. How to run -
 
 # Clone this project using git
